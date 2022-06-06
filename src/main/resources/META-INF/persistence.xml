@@ -9,8 +9,8 @@
 			<property name="javax.persistence.sql-load-script-source" value="META-INF/jkcontrol.sql"/>
 			<property name="hibernate.dialect" value="org.hibernate.dialect.Oracle12cDialect"/>
 			<property name="javax.persistence.jdbc.driver" value="oracle.jdbc.OracleDriver" />
-			<property name="javax.persistence.jdbc.user" value="rm88397"/>
-			<property name="javax.persistence.jdbc.password" value="220802"/>
+			<property name="javax.persistence.jdbc.user" value="rm84111"/>
+			<property name="javax.persistence.jdbc.password" value="280502"/>
 			<property name="javax.persistence.jdbc.url" value="jdbc:oracle:thin:@oracle.fiap.com.br:1521:orcl"/>
 		</properties>	
 	</persistence-unit>
